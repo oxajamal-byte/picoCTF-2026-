@@ -1,4 +1,4 @@
-# AccessControl
+# AccessControl - 200 pts
 
 **Category:** Blockchain
 
